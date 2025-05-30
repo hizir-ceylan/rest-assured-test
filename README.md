@@ -29,11 +29,15 @@ mvn -version
 ```
 Aşağıdaki adımlarla projeyi bilgisayarınıza indirebilir ve testleri çalıştırabilirsiniz:
 
-# 1. Projeyi GitHub'dan klonlayın
+1. Projeyi GitHub'dan klonlayın:
+```bash
 git clone https://github.com/hizir-ceylan/rest-assured-test.git
-
-# 2. Proje klasörüne girin
+```
+2. Proje klasörüne girin:
+```bash
 cd rest-assured-test
-
-# 3. Maven ile testleri çalıştırın
+```
+3. Maven ile testleri çalıştırın:
+```bash
 mvn test
+```
